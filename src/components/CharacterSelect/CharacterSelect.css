@@ -1,0 +1,21 @@
+.char-select {
+	width: 1100px;
+	margin: 0 auto;	
+}
+
+.char-select-icon {
+	list-style-type: none;
+	display: inline-block;
+
+	margin: 0;
+	background-color: #000;
+
+	height: 100px;
+	width: 100px;
+
+	border: 2px solid #FFF;
+}
+
+.char-select-icon.selected, .char-select-icon:hover {
+	border-color: red;
+}

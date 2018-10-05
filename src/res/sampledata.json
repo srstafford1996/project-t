@@ -1,0 +1,282 @@
+{
+	"akuma": {
+		"name": "akuma",
+		"title": "Akuma",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"alisa": {
+		"name": "alisa",
+		"title": "Alisa Bosconovitch",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"anna": {
+		"name": "anna",
+		"title": "Anna Williams",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"asuka": {
+		"name": "asuka",
+		"title": "Asuka Kazama",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"bob": {
+		"name": "bob",
+		"title": "Bob",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"bryan": {
+		"name": "bryan",
+		"title": "Bryan Fury",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"claudio": {
+		"name": "claudio",
+		"title": "Claudio",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"devil-jin": {
+		"name": "devil-jin",
+		"title": "Devil Jin",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"dragunov": {
+		"name": "dragunov",
+		"title": "Dragunov",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"eddy": {
+		"name": "eddy",
+		"title": "Eddy",
+		"description": "",
+		"moves": [],
+		"combos": []
+	},
+	"eliza": {
+		"name": "eliza",
+		"title": "Eliza",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"feng": {
+		"name": "feng",
+		"title": "Feng Wei",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"geese": {
+		"name": "geese",
+		"title": "Geese Howard",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"gigas": {
+		"name": "gigas",
+		"title": "Gigas",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"heihachi": {
+		"name": "heihachi",
+		"title": "Heihachi Mishima",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"hwoarang": {
+		"name": "hwoarang",
+		"title": "Hwoarang",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"jack-7": {
+		"name": "jack-7",
+		"title": "Jack 7",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"jin": {
+		"name": "jin",
+		"title": "Jin Kazama",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"josie": {
+		"name": "josie",
+		"title": "Josie Rizal",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"katarina": {
+		"name": "katarina",
+		"title": "Katarina",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"kazumi": {
+		"name": "kazumi",
+		"title": "Kazumi Mishima",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"kazuya": {
+		"name": "kazuya",
+		"title": "Kazuya Mishima",
+		"description": "",
+		"moves": [],
+		"combos": []
+	},
+	"king": {
+		"name": "king",
+		"title": "King",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"kuma": {
+		"name": "kuma",
+		"title": "Kuma",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"lars": {
+		"name": "lars",
+		"title": "Lars",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"law": {
+		"name": "law",
+		"title": "Law",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"lee": {
+		"name": "lee",
+		"title": "Lee",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"lei": {
+		"name": "lei",
+		"title": "Lei Wulong",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"leo": {
+		"name": "leo",
+		"title": "Leo",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"lili": {
+		"name": "lili",
+		"title": "Lili Rochefort",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"lucky-chloe": {
+		"name": "lucky-chloe",
+		"title": "Lucky Chloe",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"master-raven": {
+		"name": "master-raven",
+		"title": "Master Raven",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"miguel": {
+		"name": "miguel",
+		"title": "Miguel",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"nina": {
+		"name": "nina",
+		"title": "Nina Williams",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"noctis": {
+		"name": "noctis",
+		"title": "Noctis",
+		"description": "",
+		"moves": [],
+		"combos": []
+	},
+	"paul": {
+		"name": "paul",
+		"title": "Paul Phoenix",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"shaheen": {
+		"name": "shaheen",
+		"title": "Shaheen",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"steve": {
+		"name": "steve",
+		"title": "Steve Fox",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"xiaoyu": {
+		"name": "xiaoyu",
+		"title": "Ling Xiaoyu",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}, 
+	"yoshimitsu": {
+		"name": "yoshimitsu",
+		"title": "Yoshimitsu",
+		"description": "",
+		"moves": [],
+		"combos": []
+	}
+}
